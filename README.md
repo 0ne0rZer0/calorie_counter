@@ -1,4 +1,4 @@
-# calorie_counter
+# Calorie Counter backend
 
 Features of Calorie counter project: 
 
