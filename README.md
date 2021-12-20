@@ -14,3 +14,6 @@ Features of Calorie counter project:
 *    The API filtering allows using parenthesis for defining operations precedence and use any combination of the available fields. The supported operations include or, and, eq (equals), ne (not equals), gt (greater than), lt (lower than).
 Example -> (date eq '2016-05-01') AND ((number_of_calories gt 20) OR (number_of_calories lt 10)).
 *    Unit and e2e tests.
+
+
+![calorieCounter](https://user-images.githubusercontent.com/43174511/146746090-fa9cdc73-0594-4672-972c-51b5884f8f79.JPG)
